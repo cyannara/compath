@@ -9,7 +9,7 @@
         <div class="flex items-center gap-2">
           <img
             class="w-8 h-8 flex items-center justify-cente"
-            src="../images/whiteBgComPath.png"
+            src="../images/whiteBgComPath.PNG"
             alt="Compath_logo"
           />
           <div class="flex items-center text-lg font-bold tracking-tight">
