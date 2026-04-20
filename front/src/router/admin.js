@@ -16,7 +16,7 @@ const adminRoutes = [
     //역할 목록
     path: "/admin/role",
     name: "roleList",
-    component: () => import("../role/RoleList.vue"),
+    component: () => import("../role/RoleLIst.vue"),
   },
   {
     //역할 등록
